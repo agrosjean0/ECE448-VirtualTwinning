@@ -23,4 +23,12 @@
 	- Successfully read boot message from DSO138 via USART
 	- Successfully read voltages from the DSO138 to the Raspberry Pi via UART
 
+3/13:
+	- Discovered Voltage measurements were inconsistent
+	- Searched for modified DLO138 source code
+	- Discovered possible issue with the timescale of the DSO138 capture function
+	- Made attempts to build other DSO138 projects and understand the make files
 
+3/20:
+
+	-
